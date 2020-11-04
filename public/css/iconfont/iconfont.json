@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17744511",
+      "name": "化妆袋",
+      "font_class": "huazhuangdai",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "17744515",
+      "name": "眼影",
+      "font_class": "yanying",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "17744517",
+      "name": "指甲油",
+      "font_class": "zhijiayou",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
